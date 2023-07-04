@@ -1,16 +1,16 @@
-# Привет ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) меня зовут Пётр!
+# Приветвую путник! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) 
 
 ---
 
 ### :man_technologist: Обо мне:
 
-Меня зовут Пётр, и я начинающий Python разработчик. С августа 2022 года по апрель 2023 года я проходил обучение на курсах Яндекс Практикум, где изучал разработку на Python. В настоящий момент я завершил курс и активно ищу работу, чтобы применять свои навыки на практике.
+Меня зовут Пётр, и я начинающий Python разработчик. С августа 2022 года по апрель 2023 года прошел обучение на курсах Яндекс Практикум, где изучалил разработку на Python. В настоящий момент я завершил курс и активно ищу работу, чтобы применять свои навыки на практике.
 
 Мои основные области интереса включают Python, SQL и Django. В настоящее время я усиленно развиваю навыки в областях Python, SQL, FastAPI и Django, стремясь стать более компетентным разработчиком.
 
 ### Контакты:
-<a href="mister.volojanin@yandex.ru" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Yandex_icon.svg/2048px-Yandex_icon.svg.png" width="36" height="36" alt="Git">
-<a href="https://t.me/Vicimus" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/49933115/139837223-bf23d3a9-4638-4e17-994a-ac8678d5f517.png" width="36" height="36" alt="Git">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Yandex_icon.svg/2048px-Yandex_icon.svg.png" width="17" height="17" alt="Git"> mister.volojanin@yandex.ru <br>
+<img src="https://user-images.githubusercontent.com/49933115/139837223-bf23d3a9-4638-4e17-994a-ac8678d5f517.png" width="15" height="15" alt="Git"> https://t.me/Vicimus
 
 
 ### Навыки
