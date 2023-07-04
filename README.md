@@ -8,6 +8,10 @@
 
 Мои основные области интереса включают Python, SQL и Django. В настоящее время я усиленно развиваю навыки в областях Python, SQL, FastAPI и Django, стремясь стать более компетентным разработчиком.
 
+### Статистика LeetCode:
+![LeetCode Stats](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FV1cimus&logo=leetcode&logoColor=yellow)
+
+
 ### Контакты:
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Yandex_icon.svg/2048px-Yandex_icon.svg.png" width="17" height="17" alt="Git"> mister.volojanin@yandex.ru <br>
 <img src="https://user-images.githubusercontent.com/49933115/139837223-bf23d3a9-4638-4e17-994a-ac8678d5f517.png" width="15" height="15" alt="Git"> https://t.me/Vicimus
