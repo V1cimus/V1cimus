@@ -7,7 +7,8 @@
 Я начинающий Python разработчик. С августа 2022 года по апрель 2023 я изучал python разработку на курсах Яндекс Практикум. В настоящий момент мое обучение на курсе завершено и я нахожусь в поисках работы.
 
 Интересуюсь Python, SQL, Django. Сейчас активно прокачиваю навыки в Python, SQL, FastAPI, Django и тд. 
-Как связаться со мной? <br>mister.volojanin@yandex.ru<br>https://t.me/Vicimus<br>
+
+<br> Как со мной связаться? <br>mister.volojanin@yandex.ru<br>https://t.me/Vicimus<br>
 
 
 
